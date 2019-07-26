@@ -1,1 +1,1 @@
-# territory-of-aze-cities
+# Territory of Azerbaijan cities
